@@ -2,28 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite-url/undefined/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
-    
-    <lastmod>2022-08-18</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite-url/tags/index.html</loc>
     
-    <lastmod>2022-08-18</lastmod>
+    <lastmod>2022-08-20</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite-url/categories/index.html</loc>
     
-    <lastmod>2022-08-18</lastmod>
+    <lastmod>2022-08-20</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite-url/404.html</loc>
+    
+    <lastmod>2022-08-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/undefined/%E4%BB%8E%E9%80%BB%E8%BE%91%E4%B8%8A%E7%90%86%E8%A7%A3%E8%BF%9B%E7%A8%8B/</loc>
+    
+    <lastmod>2022-08-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/undefined/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
     
     <lastmod>2022-08-18</lastmod>
     
@@ -60,7 +67,7 @@
 
   <url>
     <loc>http://yoursite-url/</loc>
-    <lastmod>2022-08-18</lastmod>
+    <lastmod>2022-08-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -68,14 +75,21 @@
   
   <url>
     <loc>http://yoursite-url/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2022-08-18</lastmod>
+    <lastmod>2022-08-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2022-08-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/jottings/</loc>
-    <lastmod>2022-08-18</lastmod>
+    <lastmod>2022-08-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -84,14 +98,21 @@
   
   <url>
     <loc>http://yoursite-url/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2022-08-18</lastmod>
+    <lastmod>2022-08-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2022-08-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/categories/jottings/</loc>
-    <lastmod>2022-08-18</lastmod>
+    <lastmod>2022-08-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
