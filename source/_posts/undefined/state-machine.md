@@ -1,5 +1,5 @@
 ---
-title: state-machine
+title: 状态机设计模式
 catalog: true
 date: 2022-09-11 09:06:44
 subtitle:
