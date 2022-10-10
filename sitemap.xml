@@ -4,19 +4,26 @@
   <url>
     <loc>http://yoursite-url/tags/index.html</loc>
     
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2022-10-10</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite-url/categories/index.html</loc>
     
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2022-10-10</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite-url/404.html</loc>
+    
+    <lastmod>2022-10-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/undefined/what-is-generic/</loc>
     
     <lastmod>2022-10-05</lastmod>
     
@@ -74,7 +81,7 @@
 
   <url>
     <loc>http://yoursite-url/</loc>
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2022-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -82,28 +89,35 @@
   
   <url>
     <loc>http://yoursite-url/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2022-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/%E7%8A%B6%E6%80%81%E6%9C%BA/</loc>
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2022-10-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/tags/generic-%E6%B3%9B%E5%9E%8B/</loc>
+    <lastmod>2022-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2022-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/jottings/</loc>
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2022-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -112,28 +126,35 @@
   
   <url>
     <loc>http://yoursite-url/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2022-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2022-10-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/categories/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/</loc>
+    <lastmod>2022-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2022-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/categories/jottings/</loc>
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2022-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
